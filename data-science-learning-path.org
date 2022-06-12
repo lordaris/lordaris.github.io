@@ -1,0 +1,28 @@
+
+This is a personal learning path, based on books (no videos or MOOCs). 
+
+** Programming
+
+- [[https://automatetheboringstuff.com/][Automate The Boring Stuff With Python]]
+- [[http:inventwithpython.com/beyond][Beyond The Basic Stuff With Python]]
+- [[https://git-scm.com/doc][Git]]
+- [[https://dev.mysql.com/doc/refman/8.0/en/][MySQL 8.0 Reference Manual]]
+- [[https://ducamp.me/images/0/00/Intro-Computation-Programming-using-Python.pdf][Introduction to Computation and Programming Using Python]]
+- 
+
+
+** Mathematics & Statistics
+- [[https://mml-book.github.io/book/mml-book.pdf][Mathematics for Machine Learning]]
+- [[https://www.researchgate.net/profile/Janine-Zitianellis/post/Can_anyone_please_suggest_a_books_on_machine_learning_using_R_Programming/attachment/613a5b83647f3906fc975a71/AS%3A1066204907204608%401631214467436/download/Practical+Statistics+for+Data+Scientists+50%2B+Essential+Concepts+Using+R+and+Python+by+Peter+Bruce%2C+Andrew+Bruce%2C+Peter+Gedeck.pdf][Practical Statistics for Data Scientists]]
+- 
+
+
+** Machine Learning
+- [[https://alex.smola.org/drafts/thebook.pdf][Introduction to Machine Learning]]
+- [[https://ai.stanford.edu/~nilsson/MLBOOK.pdf][Introduction to Machine Learning (An Early Draft of a Proposed Textbook)]]
+
+** Deep learning
+- [[https://www.deeplearningbook.org/][Deep Learning (An MIT Press Book)]]
+
+
+- [[https://algorithmsbook.com/files/dm.pdf][Algorithms for Decision Making]
