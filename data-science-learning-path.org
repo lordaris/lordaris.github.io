@@ -25,4 +25,4 @@ This is a personal learning path, based on books (no videos or MOOCs).
 - [[https://www.deeplearningbook.org/][Deep Learning (An MIT Press Book)]]
 
 
-- [[https://algorithmsbook.com/files/dm.pdf][Algorithms for Decision Making]
+- [[https://algorithmsbook.com/files/dm.pdf][Algorithms for Decision Making]]
