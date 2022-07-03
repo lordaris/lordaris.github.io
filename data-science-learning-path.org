@@ -5,7 +5,7 @@
 
 This is a personal learning path, based on books (no videos or MOOCs). 
 
-** Programming
+** Courses
 
 - [[https://automatetheboringstuff.com/][Automate The Boring Stuff With Python]]
 - [[http:inventwithpython.com/beyond][Beyond The Basic Stuff With Python]]
